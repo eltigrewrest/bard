@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:-1 group-title="Спортивные",KHL Prime
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
@@ -46,6 +46,26 @@ http://95.66.188.74/KHL/mono.m3u8
 http://95.66.188.74/MatchBoec/mono.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра
 http://95.66.188.74/MatchIgra/mono.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg", CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
@@ -217,7 +237,7 @@ http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="Плюсовые",Звезда (+4)
+#EXTINF:-1 group-title="Wink и другие часовые пояса",Звезда (+4)
 http://vod.tuva.ru/zvezda/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Пятница
 http://vod.tuva.ru/friday/index.m3u8
@@ -849,23 +869,23 @@ https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="Федеральные", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+1)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+1)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+2)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+2)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+3)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+3)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+4)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+4)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+5)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+5)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+6)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+6)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+7)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+7)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+8)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+8)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Плюсовые", Россия 1 (+9)
+#EXTINF:-1 group-title="Wink и другие часовые пояса", Россия 1 (+9)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные" ,Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -877,16 +897,16 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
+#EXTINF:-1 group-title="Wink и другие часовые пояса" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+#EXTINF:-1 group-title="Wink и другие часовые пояса" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+#EXTINF:-1 group-title="Wink и другие часовые пояса" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Плюсовые" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+#EXTINF:-1 group-title="Wink и другие часовые пояса" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
@@ -902,178 +922,178 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" ,Большая Азия
+#EXTINF:-1 group-title="Эфирные" ,Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Кавказ 24
+#EXTINF:-1 group-title="Эфирные" ,Кавказ 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Запад 24
+#EXTINF:-1 group-title="Эфирные" ,Запад 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Восток 24
+#EXTINF:-1 group-title="Эфирные" ,Восток 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Сибирь 24
+#EXTINF:-1 group-title="Эфирные" ,Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Башкортостан 24
+#EXTINF:-1 group-title="Эфирные" ,Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Урал 24
+#EXTINF:-1 group-title="Эфирные" ,Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Нижний Новгород 24
+#EXTINF:-1 group-title="Эфирные" ,Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Краснодар
+#EXTINF:-1 group-title="Эфирные" ,Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Арктика 24
+#EXTINF:-1 group-title="Эфирные" ,Арктика 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,360°
+#EXTINF:-1 group-title="Эфирные" ,360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,360° Новости
+#EXTINF:-1 group-title="Эфирные" ,360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,ТОЛК
+#EXTINF:-1 group-title="Эфирные" ,ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" ,Честный детектив
+#EXTINF:-1 group-title="Эфирные" ,Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/ydG9W9Pz/1.jpg",Тел+ Астрахань
 https://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/6755.png",Волжский Плюс FHD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/6755.png",Волжский Плюс FHD
 http://flussonic.powernet.com.ru:8080/volplus/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://assets.limehd.tv/uploads/channel/10428/thumb_2224509bdab82cfcfaffe6b73fe26e7c.png",Салям
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://assets.limehd.tv/uploads/channel/10428/thumb_2224509bdab82cfcfaffe6b73fe26e7c.png",Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png",БСТ 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://bst.bratsk.ru/bst24_mainlogo_v1.png",БСТ 24
 https://bst.bratsk.ru/hls/bst2/sd/stream.m3u8
-#EXTINF:-1 group-title="Эфирные-2",Звезда
+#EXTINF:-1 group-title="Эфирные",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
 https://stream.trafjam.ru/tvcom/studio/tracks-v1a1/rewind-43200.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://logotype.download/tv/12186.png",ТРК 555 HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://logotype.download/tv/12186.png",ТРК 555 HD
 http://trk555.tv:8888/live
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/8zND9mnj/images.png",Осетия-Ирыстон
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/8zND9mnj/images.png",Осетия-Ирыстон
 https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
 https://e10-ll.facecast.net/rtv/0.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://sitv.ru/img/tvprogram/86.jpg",С1 Сургут 86
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://sitv.ru/img/tvprogram/86.jpg",С1 Сургут 86
 https://sitv.ru/hls/s86512.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/BbWJfGRT/2008-2010.png",ТВК (Красноярск)
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/BbWJfGRT/2008-2010.png",ТВК (Красноярск)
 https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV HD
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2",РБК
+#EXTINF:-1 group-title="Эфирные",РБК
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
 https://136723.edgevideo.ru/streams/136723_657205/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-id="s1-surgut",С1 Сургут HD
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/W3b715VR/2023-05-29-233224593.png",Байкал Универ ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/W3b715VR/2023-05-29-233224593.png",Байкал Универ ТВ
 https://stream01.bgu.ru/1/1/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://i.postimg.cc/8ctzKFD6/2024-06-21-210652798.png",Тосно ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://i.postimg.cc/8ctzKFD6/2024-06-21-210652798.png",Тосно ТВ
 https://tosnotv.ru/hlsshare/video.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2",ТОЛК
+#EXTINF:-1 group-title="Эфирные",ТОЛК
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2"  tvg-id="krasnodar",Краснодар HD
+#EXTINF:-1 group-title="Эфирные"  tvg-id="krasnodar",Краснодар HD
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" ,Истоки Орёл
+#EXTINF:-1 group-title="Эфирные" ,Истоки Орёл
 http://istoki.tv:1935/live/efir-istoki.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://sezon.tv/wp-content/uploads/2021/08/rodnoy.jpg",Родной Канал HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://sezon.tv/wp-content/uploads/2021/08/rodnoy.jpg",Родной Канал HD
 https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2",Север
+#EXTINF:-1 group-title="Эфирные",Север
 https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2294.png",БелРос
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Эфирные-2",Радость Моя
+#EXTINF:-1 group-title="Эфирные",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://www.rgvktv.ru/templates/gk_gamenews/images/logo.png",РГВК Дагестан
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://www.rgvktv.ru/templates/gk_gamenews/images/logo.png",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2360.png",ТБН
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2360.png",ТБН
 https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2265.png",360°
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2265.png",360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://img15.lostpic.net/2019/09/01/7e6553c2727b709f781d5ab43b52ab9c.png",360 Новости
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://img15.lostpic.net/2019/09/01/7e6553c2727b709f781d5ab43b52ab9c.png",360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://almaz-media.tv/templates/almaz2019/images/AK_logo-1024.png",Алмазный край
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://almaz-media.tv/templates/almaz2019/images/AK_logo-1024.png",Алмазный край
 https://stream.almaz-media.tv:8080/hls/720.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
 http://5.164.24.83/tula/1tv_hi/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg",Щелковское ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg",Щелковское ТВ
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522952433_teledom-1.jpg",Теледом ТВ HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522952433_teledom-1.jpg",Теледом ТВ HD
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="Эфирные-2",Красная Линия
+#EXTINF:-1 group-title="Эфирные",Красная Линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://pbs.twimg.com/profile_images/941295036817444864/6IoGlBl6_400x400.jpg",МТВ(Волгоград)
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://pbs.twimg.com/profile_images/941295036817444864/6IoGlBl6_400x400.jpg",МТВ(Волгоград)
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://assets.limehd.tv/uploads/channel/10328/thumb_a2e9c7ca91051d2181c5bdb80e778001.png",НВК Саха HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://assets.limehd.tv/uploads/channel/10328/thumb_a2e9c7ca91051d2181c5bdb80e778001.png",НВК Саха HD
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img2/5816.png" tvg-id="aist",Аист ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img2/5816.png" tvg-id="aist",Аист ТВ
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ HD
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img2/6025.png",Ника ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img2/6025.png",Ника ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2",МИР 24 HD
+#EXTINF:-1 group-title="Эфирные",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2",ТВЦ
+#EXTINF:-1 group-title="Эфирные",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://s3.spbtv.com/rosing-production/b69bafc330ead51ef2b6_512x512c.png",Крик-ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://s3.spbtv.com/rosing-production/b69bafc330ead51ef2b6_512x512c.png",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://img15.lostpic.net/2019/08/31/f0a38112fc67c1308e59d9ceb78ebd40.png",ННТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://img15.lostpic.net/2019/08/31/f0a38112fc67c1308e59d9ceb78ebd40.png",ННТВ
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2",РЖД ТВ
+#EXTINF:-1 group-title="Эфирные",РЖД ТВ
 https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2413.png",МузСоюз
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2413.png",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные-2",TV ГУБЕРНИЯ
+#EXTINF:-1 group-title="Эфирные",TV ГУБЕРНИЯ
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
 http://85.234.33.63/stream/c11.m3u8
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Эфирные-2" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+#EXTINF:-1 group-title="Эфирные" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 group-title="Эфирные-2" tvg-id="legendarny24",Легендарный 24    
+#EXTINF:-1 group-title="Эфирные" tvg-id="legendarny24",Легендарный 24    
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 group-title="Эфирные-2" ,Симферополь 24
+#EXTINF:-1 group-title="Эфирные" ,Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 
 
@@ -1100,39 +1120,39 @@ http://85.192.10.131/hls/pingvinru/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Первый канал
+#EXTINF:-1 group-title="Федеральные",Первый канал
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",НТВ
+#EXTINF:-1 group-title="Федеральные",НТВ
 http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТНТ
+#EXTINF:-1 group-title="Федеральные",ТНТ
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Рен ТВ
+#EXTINF:-1 group-title="Федеральные",Рен ТВ
 http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Россия 1
+#EXTINF:-1 group-title="Федеральные",Россия 1
 http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Россия К
+#EXTINF:-1 group-title="Федеральные",Россия К
 http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Viasat History
+#EXTINF:-1 group-title="Федеральные",Viasat History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Пятый канал
+#EXTINF:-1 group-title="Федеральные",Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",2x2
+#EXTINF:-1 group-title="Федеральные",2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",VIP Comedy HD
+#EXTINF:-1 group-title="Федеральные",VIP Comedy HD
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Кинопоказ
+#EXTINF:-1 group-title="Федеральные",Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Пятница
+#EXTINF:-1 group-title="Федеральные",Пятница
 http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",СТС
+#EXTINF:-1 group-title="Федеральные",СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",TMTV
+#EXTINF:-1 group-title="Федеральные",TMTV
 http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТНВ-Татарстан
+#EXTINF:-1 group-title="Федеральные",ТНВ-Татарстан
 http://89.232.68.194:8080/tnv/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",ТВ3
+#EXTINF:-1 group-title="Федеральные",ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Федеральные-2 (запас)",Карусель
+#EXTINF:-1 group-title="Федеральные",Карусель
 http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
@@ -1332,25 +1352,7 @@ http://193.25.8.59:8000/box
 
 
 
-#EXTINF:-1 group-title="Спортивные",Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://178.212.71.253:8000/play/55/index.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Матч Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Русский Экстрим
-http://178.212.71.253:8000/play/118/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт
-http://178.212.71.253:8000/play/81/index.m3u8
 
 
 
